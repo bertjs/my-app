@@ -1,0 +1,7 @@
+# OS/editor clutter
+.DS_Store
+*.log
+
+# Docker
+vendor/
+docker-compose.override.yml
